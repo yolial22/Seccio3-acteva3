@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<llibres>
+    <llibre id="1">
+        <titol>Harry Potter y la Piedra Filosofal</titol>
+        <autor>J.K.Rowling</autor>
+        <anypubli>1997</anypubli>
+        <editorial>J.K.Rowling</editorial>
+        <nombrepag>300</nombrepag>
+    </llibre>
+    <llibre id="2">
+        <titol>Harry Potter y el Caliz de Fuego</titol>
+        <autor>J.K.Rowling</autor>
+        <anypubli>2000</anypubli>
+        <editorial>J.K.Rowling</editorial>
+        <nombrepag>500</nombrepag>
+    </llibre>
+    <llibre id="3">
+        <titol>Harry Potter y las Reliquias de la Muerte</titol>
+        <autor>J.K.Rowling</autor>
+        <anypubli>2007</anypubli>
+        <editorial>J.K.Rowling</editorial>
+        <nombrepag>600</nombrepag>
+    </llibre>
+</llibres>
